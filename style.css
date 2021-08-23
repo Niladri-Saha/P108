@@ -1,0 +1,33 @@
+body{
+    font-family: 'Klee One', cursive;
+    background: rgb(241, 226, 8);
+}          
+.header_div{
+    background: white;
+    color: rgb(50, 16, 243);
+}
+.header_div p{
+font-family: fantasy;
+color: rgba(128, 128, 128, 0.664);
+letter-spacing: 2px;
+font-size: 12px;
+font-weight: bold;
+}
+.main_div button{
+    font-family: sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: rgb(228, 140, 240);
+    width: 100%;
+    bottom: 0;
+    font-size: 18px;
+    background: rgb(205, 0, 0);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(5, 48, 85);
+}
